@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Apeksha Shukla!
 
-<!--
-**apekshas698/apekshas698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 4th-year B.Tech CSE student at [Chhatrapati Shahu Ji Maharaj University, Kanpur (CSJMU)], passionate about front-end development, full-stack web technologies, and good DSA problem-solving in JAVA  with a strong foundation in core computer science subjects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Languages:** Java, SQL  
+**Frontend:** HTML, CSS, JavaScript, React.js, Vite, Tailwind CSS  
+**Backend:** JDBC, Servlets, JSP, Spring Core, Spring MVC, Spring Security, Spring Boot  
+**Tools & Platforms:** VS Code, Git, GitHub  
+**CS Fundamentals:** OOPs, Data Structures & Algorithms (DSA), DBMS, Software Development Life Cycle (SDLC)
+
+---
+
+## 📘 Data Structures & Algorithms
+
+I actively solve DSA problems on platforms like CodeChef, GeeksforGeeks, and LeetCode.  
+**Focus Areas:**
+
+- Arrays, Strings, Hashing  
+- Linked Lists, Stacks, Queues  
+- Trees, Graphs, Recursion  
+- Sorting, Searching  
+- Greedy & Dynamic Programming  
+
+---
+
+## 🚀 Projects
+
+### 🏠 Real-Estate Link  
+React-based front-end app styled with Tailwind CSS and optimized using Vite and ESLint.
+
+### 🧑‍💻 Personal Portfolio  
+Clean, responsive portfolio built using vanilla HTML, CSS, and JavaScript to showcase skills and projects.
+
+### 🛒 Amazon Clone  
+A static Amazon website clone using HTML, CSS, and JavaScript — mimicking the original layout and design elements.
+
+---
+
+
+
+## 🤝 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/apeksha-shukla/)
+- 💼 [GitHub](https://github.com/apekshas698)
+- 📧 apekshas729@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I love building front-end projects, learning backend frameworks like Spring Boot, and solving real-world problems through code. Currently exploring more advanced concepts in full-stack development and system design.
