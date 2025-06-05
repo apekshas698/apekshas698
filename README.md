@@ -30,7 +30,8 @@ I actively solve DSA problems on platforms like CodeChef, GeeksforGeeks, and Lee
 ## 🚀 Projects
 
 ### 🏠 Real-Estate Link  
-React-based front-end app styled with Tailwind CSS and optimized using Vite and ESLint.
+React-based front-end app styled with Tailwind CSS and optimized using Vite and ESLint.  
+🔗 [Live Demo](https://resonant-kringle-6d029d.netlify.app/)
 
 ### 🧑‍💻 Personal Portfolio  
 Clean, responsive portfolio built using vanilla HTML, CSS, and JavaScript to showcase skills and projects.
