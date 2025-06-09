@@ -39,6 +39,12 @@ Clean, responsive portfolio built using vanilla HTML, CSS, and JavaScript to sho
 ### 🛒 Amazon Clone  
 A static Amazon website clone using HTML, CSS, and JavaScript — mimicking the original layout and design elements.
 
+### QuizApp
+A simple and interactive **Maths Quiz App** built using **React.js** and **Vite**. This app allows users to practice basic math operations like addition, subtraction, multiplication, and division with multiple-choice questions.
+
+🔗 **Live Demo:** [https://aesthetic-bienenstitch-2e8cc1.netlify.app/](https://aesthetic-bienenstitch-2e8cc1.netlify.app/)
+
+
 ---
 
 
