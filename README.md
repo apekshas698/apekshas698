@@ -10,7 +10,7 @@
 **Frontend:** HTML, CSS, JavaScript, React.js, Vite, Tailwind CSS  
 **Backend:** JDBC, Servlets, JSP, Spring Core, Spring MVC, Spring Security, Spring Boot  
 **Tools & Platforms:** VS Code, Git, GitHub  
-**CS Fundamentals:** OOPs, Data Structures & Algorithms (DSA), DBMS, Software Development Life Cycle (SDLC)
+**CS Fundamentals:** OOPs, Data Structures & Algorithms (DSA), DBMS,Computer Network(CN)
 
 ---
 
