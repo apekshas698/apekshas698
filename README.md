@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Apeksha Shukla!
 
-🎓 I'm a 4th-year B.Tech CSE student at [Chhatrapati Shahu Ji Maharaj University, Kanpur (CSJMU)], passionate about front-end development, full-stack web technologies, and good DSA problem-solving in JAVA  with a strong foundation in core computer science subjects.
+🎓 I'm a final-year B.Tech CSE student at [Chhatrapati Shahu Ji Maharaj University, Kanpur (CSJMU)], passionate about front-end development, full-stack web technologies, and good DSA problem-solving in JAVA  with a strong foundation in core computer science subjects.
 
 ---
 
