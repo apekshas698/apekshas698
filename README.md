@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Apeksha Shukla!
 
 🎓 Final-year B.Tech CSE student at [CSJMU, Kanpur](https://csjmu.ac.in)  
-💻 Passionate about front-end , learning back-end & full-stack development  
+💻 Passionate about front-end & full-stack development  
 🔍 Strong in Core CS: OOPs, DSA, DBMS, CN
 
 ---
@@ -39,7 +39,10 @@ JDBC, Servlets, JSP, Spring Core, Spring MVC, Spring Security
 - Sorting, Searching  
 - Greedy & Dynamic Programming  
 
-> 💡 Solving problems on: CodeChef, GeeksforGeeks, LeetCode
+> 💡 Actively solving on:
+- [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/apeksha_98)
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/apekshmzsh/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/SHUKLApeksha/)
 
 ---
 
