@@ -70,4 +70,4 @@ Interactive Math Quiz built with React + Vite
 
 ## ⚡ Fun Fact
 
-I love building front-end projects, exploring Spring Boot, and solving real-world problems through code. Currently diving deeper into full-stack systems & design!
+I am passionate in  building front-end projects, exploring Spring Boot, and solving real-world problems through code. Currently diving deeper into full-stack and developing problem solving skills.
