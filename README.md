@@ -52,9 +52,6 @@ JDBC, Servlets, JSP, Spring Core, Spring MVC, Spring Security
 Front-end in React + Tailwind, optimized with Vite & ESLint  
 🔗 Live Demo:[Real Estate](https://resonant-kringle-6d029d.netlify.app/)
 
-### 🧑‍💻 Personal Portfolio  
-Built with HTML, CSS, JS — fully responsive design
-
 ### 🛒 Amazon Clone  
 Static clone of Amazon using HTML, CSS & JS
 
