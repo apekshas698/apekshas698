@@ -50,7 +50,7 @@ JDBC, Servlets, JSP, Spring Core, Spring MVC, Spring Security
 
 ### 🏠 Real Estate App  
 Front-end in React + Tailwind, optimized with Vite & ESLint  
-🔗 Live Demo: _coming soon_
+🔗 Live Demo:[Real Estate](https://resonant-kringle-6d029d.netlify.app/)
 
 ### 🧑‍💻 Personal Portfolio  
 Built with HTML, CSS, JS — fully responsive design
