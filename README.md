@@ -73,7 +73,9 @@ Built using **React**, **Tailwind**, and **Vite**.
 
 ### 🛒 Amazon Clone  
 A static replica of the Amazon landing page.  
-Built with **HTML**, **CSS**, and **JavaScript**.
+Built with **HTML**, **CSS**, and **JavaScript**.  
+🔗 [GitHub Repo](https://github.com/apekshas698/Clone)
+
 
 ---
 
