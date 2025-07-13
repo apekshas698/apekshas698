@@ -22,8 +22,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 🛠️ Backend & Database  
-### 🛠️ Backend & Database  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=oracle&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-6C3483?style=flat&logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-900C3F?style=flat&logo=java&logoColor=white)
@@ -49,13 +48,21 @@
 
 ### 👩‍💻 Problem-Solving Profiles
 
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/SHUKLApeksha/)
-- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/apekshmzsh/)
-- [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/apeksha_98)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/SHUKLApeksha/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/apekshmzsh/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/apeksha_98)
 
 ---
 
 ## 🧩 Projects
+
+### 🚗 CarRental (Full-Stack Project)  
+A complete car booking website with user & admin roles, booking system, and car management dashboard.  
+**Frontend**: React, Tailwind, Vite  
+**Backend**: Spring Boot, MongoDB, Spring Security, JWT  
+🔗 [GitHub Repo](https://github.com/apekshas698/CarRental)
+
+---
 
 ### 🏠 Real Estate App  
 A modern UI for listing properties.  
