@@ -60,7 +60,7 @@
 A complete car booking website with user & admin roles, booking system, and car management dashboard.  
 **Frontend**: React, Tailwind, Vite  
 **Backend**: Spring Boot, MongoDB, Spring Security, JWT  
-🔗 [GitHub Repo](https://github.com/apekshas698/CarRental)
+
 
 ---
 
