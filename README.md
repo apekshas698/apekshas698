@@ -33,6 +33,8 @@
 
 ### ⚙️ Tools & Platforms  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -60,7 +62,8 @@
 A complete car booking website with user & admin roles, booking system, and car management dashboard.  
 **Frontend**: React, Tailwind, Vite  
 **Backend**: Spring Boot, MongoDB, Spring Security, JWT  
-
+🔗 [Frontend Live](https://joyful-starburst-300df3.netlify.app/)  
+🔗 [Backend Live](https://car-rental-backend-81ma.onrender.com)
 
 ---
 
@@ -75,7 +78,6 @@ Built using **React**, **Tailwind**, and **Vite**.
 A static replica of the Amazon landing page.  
 Built with **HTML**, **CSS**, and **JavaScript**.  
 🔗 [GitHub Repo](https://github.com/apekshas698/Clone)
-
 
 ---
 
@@ -95,4 +97,5 @@ Built with **React**, **Vite**, and **Tailwind**.
 
 ## ⚡ Fun Fact
 
-I love building visually appealing front-end projects, exploring Spring Boot, and solving real-world problems through code. Currently focused on becoming a strong **full-stack developer** with solid **DSA** foundations.
+I love building visually appealing front-end projects, exploring Spring Boot, and solving real-world problems through code.  
+Currently focused on becoming a strong **full-stack developer** with solid **DSA** foundations.
