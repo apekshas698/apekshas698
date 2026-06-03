@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hi, I'm Apeksha Shukla</h1>
 
 <p align="center">
-  🎓 Final-year B.Tech CSE Student at <a href="https://csjmu.ac.in">CSJMU, Kanpur</a><br>
+  🎓 B.Tech in Computer Science & Engineering, CSJMU Kanpur<br>
   💻 Full-Stack Developer | 🧠 DSA Enthusiast | ☕ Java & Spring Boot Lover
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/apeksha-shukla-376250257/">LinkedIn</a> •
   <a href="https://github.com/apekshas698">GitHub</a> •
