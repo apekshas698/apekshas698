@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/apeksha-shukla-376250257/">LinkedIn</a> •
   <a href="https://github.com/apekshas698">GitHub</a> •
   <a href="mailto:apekshas729@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/1zb2NJ39HSSxO29xpYboQfWXJR5qZvPsQ/view?usp=drive_link">Resume</a>
+  <a href="https://drive.google.com/file/d/1PkyLbCB_0k7hOp_OiAAuI9nftatevr-w/view?usp=sharing">Resume</a>
 </p>
 
 ---
@@ -36,21 +36,21 @@ Computer Science Engineering graduate  (CSJMU Kanpur) specializing in **Java, Sp
 - 🔐 JWT-secured REST APIs with per-user data isolation
 - 📊 Live progress bars and status badges (Not Started / In Progress / Completed)
 
-🔗 [GitHub Repo](https://github.com/apekshas698/AI-Goal-Planner)
+🔗 [Frontend](https://ai-goal-planner-six.vercel.app/login) • [Backend](https://ai-goal-planner.onrender.com/) • [GitHub Repo](https://github.com/apekshas698/AI-Goal-Planner)
 
 ---
 
 ### 🚗 Car Rental System (Full-Stack)
-*Complete car rental platform with user & admin dashboards, secure authentication, and booking management.*
+*End-to-end car rental platform with role-based dashboards, secure authentication, and a containerized, cloud-deployed backend.*
 
 **Tech:** React, Tailwind, Vite | Spring Boot, Spring Security, JWT | MongoDB | Docker
 
-- 🔐 Role-based access control (Admin/User)
-- 📦 Built and tested 10+ RESTful APIs for vehicle management, booking workflows, and customer operations
-- 🐳 Containerized backend with Docker for consistent, scalable deployment
-- 🚀 Deployed: backend on Render, frontend on Netlify
+- 🔐 **Secure by design** — JWT authentication with role-based access control separating Admin and User workflows
+- 📦 **10+ RESTful APIs** built and tested end-to-end for vehicle management, booking, and customer operations
+- 🐳 **Dockerized backend** for consistent, reproducible, scalable deployment
+- 🚀 **Live in production** — backend on Render, frontend on Netlify, fully deployed and demo-ready
 
-🔗 [Frontend](https://joyful-starburst-300df3.netlify.app/) • [Backend](https://car-rental-backend-81ma.onrender.com)
+🔗 **[Live Frontend](https://joyful-starburst-300df3.netlify.app/)** • **[Live Backend](https://car-rental-backend-81ma.onrender.com)** • **[GitHub Repo](https://github.com/apekshas698/FullStackProject)**
 
 ---
 
